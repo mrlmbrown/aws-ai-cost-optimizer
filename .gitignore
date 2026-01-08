@@ -90,3 +90,5 @@ data/processed/
 *.bak
 *.swp
 output.json
+# Log files
+*.log
